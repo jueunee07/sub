@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 1;
+}
+.top{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 2;
+    background: radial-gradient(
+        rgba(0, 0, 0, 0.05),
+        rgba(0, 0, 0, 0.9)
+    );
+}
+.wrap{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 3;
+}
+.box01{
+    width: 100%;
+    padding-top: 805px;
+    text-align: center;
+}
+.box02{
+    width: 100%;
+    margin-top: -70px;
+    text-align: center;
+    font-family: "Noto Sans KR", serif;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    line-height: 23px;
+    color: black;
+}
+
+.logo{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.b01{
+    background-image: url(img/b01.png);
+}
+.b02{background: linear-gradient(#323232,#909090)}
+
+.b03{background-color: #4b4b4b;
+padding-top: 30px;
+margin-top: 180px;
+margin-left: -90px;
+padding-bottom: 80px;}
+
+.p01{
+    padding-left: 95px;
+    padding-top: 20px;
+}
+
+
+.logo01{
+padding-top: 100px;
+font-size: 76px;   
+font-weight: bold;
+text-align: center;
+color: rgb(255, 213, 0);
+}
+.logo02{
+    padding-top: 40px;
+    font-size: 60px;   
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 213, 0);
+    }
+.logo02_1{
+    font-size: 20px;  
+    letter-spacing: 20px; 
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding-left: 10px;
+    }  
+
+.tt01{
+    font-family: noto sans kr;
+    font-size: 16px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    line-height: 24px;
+}
+.tbox01{
+    font-family: noto sans kr;
+    font-size: 30px;
+    margin-bottom: -280px;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    line-height: 24px;
+}
+.tbox02{
+    margin-top: 10px;
+    margin-bottom: -160px;
+    font-family: 'GmarketSansMedium';
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+    } 
+.tbox03{
+ font-family: 'GmarketSansMedium';
+ font-size: 30px;
+ text-align: center;
+ color: white;
+}
+.tbox04{
+    font-family: 'GmarketSansMedium';
+    font-size: 12px;
+    line-height: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    color: white;
+   }
+.tbox05{
+    font-family: 'GmarketSansMedium';
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: -60px;
+    padding-left: 140px;
+    text-align: left;
+    color: white;
+}
+.imgs01{
+    padding-top: 180px;
+    margin-left: 45px;
+}
+.lcs01{padding-top: 180px;}
+.ssl01{
+    padding-top: 180px;
+
+}
+
+
+
